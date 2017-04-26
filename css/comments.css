@@ -1,0 +1,94 @@
+#container{
+	background-color:yellow;
+	width:50%;
+	padding:10px;
+	margin:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.page_content{
+	margin:15px;
+	padding:5px;
+	border-bottom:2px solid #9fbfdf;
+}
+.comment_input{
+	background:#F5F5F5;
+	margin:10px;
+	padding:10px;
+	border:2px solid #CCC;
+}
+
+.button{
+	padding:5px 15px 5px 15px;
+    background:#3973ac;
+    color: #FFF;
+	border-radius: 3px;
+}
+
+.button:hover{
+	background:#9fbfdf;
+}
+
+.comment_logs{
+	margin:5px;
+	padding:5px;
+	border:1px solid #9fbfdf;
+background:#F5F5F5;
+}
+
+.comments_content{
+	margin:10px;
+	padding:5px;
+	border:1px solid #CCC;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+background: #F5F5F5;
+}
+
+a{
+	text-decoration:none;
+}
+
+.comment_logs{
+	margin:5px;
+	padding:5px;
+	border:2px solid #CCC;
+}
+
+.comments_content{
+	margin:10px;
+	padding:5px;
+	border:2px solid #CCC;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.name{
+	font-size:25px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#3973ac;
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+.dat{
+	font-size:15px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#CECED6;
+}
+
+.com{
+	font-size:20px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#778899;
+	padding-bottom:5px;
+	margin-bottom:5px
+}
+.X{
+	font-size:20px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#CECED6;
+	text-decoration:none;
+	float:right;
+}
